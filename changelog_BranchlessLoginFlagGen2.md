@@ -1,5 +1,9 @@
 # Changelog
 
+## [1.3] - 2025-02-17
+### Added
+- Menambahkan fitur export report pdf maupun print langsung
+
 ## [1.2] - 2025-02-13
 ### Initial Release
 - Rilis pertama aplikasi dengan fitur utama:
